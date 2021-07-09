@@ -35,6 +35,6 @@ Html, Scss, JavaScript, Vue.js, API
 ### Used API
 
 
-[Fake Store API](https://fakestoreapi.com/).
+[Fake Store API](https://fakestoreapi.com/docs).
 
 
