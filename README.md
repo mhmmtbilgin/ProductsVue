@@ -1,20 +1,8 @@
-# chat-app-vue
+# Products Vue
 
 # Description
 
-A chat application, we developed with my friend. For login section I provide for you usernames and passwords;
-
-username: baristunar
-password: 123456
-
-username: cagriyuksel
-password: 123456
-
-username: cengizmataraci
-password: 123456
-
-username: korayguler
-password: 123456
+It's a case I made for an internship. I created the Products.Vue and then made the required design. I pulled into Script of my Vue.js design with fetch API. I imported the data from the API into the design using V-for.
 
 ## Project setup
 ```
@@ -31,10 +19,22 @@ npm run serve
 npm run build
 ```
 
-### Start Json-server
+### Start Project
 ```
-json-server --watch db.json
+npm run dev
+
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Used Technologies
+
+```
+Html, Scss, JavaScript, Vue.js, API 
+
+```
+
+### Used API
+
+
+[Fake Store API](https://fakestoreapi.com/).
+
+
